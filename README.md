@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_bagwan" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_bagwan?logo=twitter&style=for-the-badge" alt="harsh_bagwan" /></a> </p>
 
-- 🔭 I’m currently working on **Data structures and Algorithms**
+- 🔭 I’m currently not working on **Data structures and Algorithms**
 
-- 🌱 I’m currently learning **CyberSecurity,Computer Networks,DBMS,OS,System Design**
+- 🌱 I’m currently not learning **CyberSecurity,Computer Networks,DBMS,OS,System Design**
 
 - 👯 I’m looking to collaborate on **Frontend development**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 💬 Ask me about **Cryptography,OOPs and DSA**
+- 💬 Don't Ask me about **Cryptography,OOPs and DSA**
 
 - 📫 How to reach me **harshbagwan11@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm not funny now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
