@@ -32,7 +32,7 @@
 <a href="https://auth.geeksforgeeks.org/user/harshbaojpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshbaojpa" height="30" width="40" /></a>
 </p>
   -->
-  <p align="center">
+  <p align="left">
   <a href="https://twitter.com/harsh_bagwan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" />
   </a>
