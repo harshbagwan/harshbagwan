@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bagwan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbagwan&label=Profile%20views&color=0e75b6&style=flat" alt="harshbagwan" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_bagwan" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_bagwan?logo=twitter&style=for-the-badge" alt="harsh_bagwan" /></a> </p>
 
-- 🔭 I’m currently not working on **Data structures and Algorithms**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently not learning **CyberSecurity,Computer Networks,DBMS,OS,System Design**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Frontend development**
+<!-- - 👯 I’m looking to collaborate on **backend development** -->
 
-- 🤝 I’m looking for help with **MERN Stack**
+<!-- - 🤝 I’m looking for help with ** ** -->
 
-- 💬 Don't Ask me about **Cryptography,OOPs and DSA**
+<!-- - 💬 Don't Ask me about **Cryptography,OOPs and DSA** -->
 
-- 📫 How to reach me **harshbagwan11@gmail.com**
+- 📫 How to reach me **harshbagwan04@gmail.com**
 
-- ⚡ Fun fact **I'm not funny now**
+<!-- - ⚡ Fun fact **I'm not funny now** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
