@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_bagwan" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_bagwan?logo=twitter&style=for-the-badge" alt="harsh_bagwan" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
