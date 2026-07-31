@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Chatlify-again**
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently Practicing **Full-Stack Development**
 
 <!-- - 👯 I’m looking to collaborate on **backend development** -->
 
